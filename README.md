@@ -1,2 +1,2 @@
 # amorata
-All Shiny Apps for generating dat-driven art
+All Shiny Apps for generating data-driven art
